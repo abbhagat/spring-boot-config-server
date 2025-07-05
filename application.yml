@@ -2,8 +2,8 @@ spring:
   datasource:
     url: jdbc:oracle:thin:@localhost:1521:XE
     driver-class-name: oracle.jdbc.driver.OracleDriver
-    username: V705417
-    password: V705417
+    username: system
+    password: zed
   jpa:
     properties:
       hibernate:
