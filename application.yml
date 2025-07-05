@@ -29,7 +29,7 @@ logging:
 
 eureka:
   client:
-    fetch-registry: true
+    fetch-registry: false
     register-with-eureka: true
 
 log4j:
