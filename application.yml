@@ -37,3 +37,5 @@ log4j:
     org:
       hibernate:
         type: trace
+dynamic:
+  property: dynamic-property
